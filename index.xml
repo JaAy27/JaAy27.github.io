@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joëlles Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Joëlles Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 May 2019 18:27:22 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I Love Lisbon</title>
+      <link>http://example.org/posts/i-love-lisbon/</link>
+      <pubDate>Wed, 29 May 2019 18:27:22 +0100</pubDate>
+      
+      <guid>http://example.org/posts/i-love-lisbon/</guid>
+      <description>Hello Lisbon!</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/posts/first-post/</link>
+      <pubDate>Tue, 28 May 2019 00:50:59 +0100</pubDate>
+      
+      <guid>http://example.org/posts/first-post/</guid>
+      <description>Hi world
+My name is Joëlle!</description>
+    </item>
+    
+  </channel>
+</rss>
